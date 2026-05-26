@@ -9,7 +9,7 @@ import Exportar from './pages/Exportar'
 import Clientes from './pages/Clientes'
 import Projetos from './pages/Projetos'
 import Equipe from './pages/Equipe'
-
+// Tax Planner v1.1
 const AVATAR_COLORS = ['#4a9fd4','#2e7d52','#6b2fa0','#b36b00','#a32d2d','#1a6b8a','#3d6b2f','#8a3d6b']
 
 function getInitials(name) {
